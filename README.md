@@ -1,2 +1,2 @@
-# Grupo-de-Estudos-Musicais
-Sistema gerenciador para Grupo de Estudos Musicais - Trabalho de Conclusão de Cursos (Técnico em Desenvolvimento de Sistemas)
+# Grupo de Estudos Musicais
+SGEM-CCB (Sistema para Grupos de Estudos Musicais da Congregação Cristã no Brasil) é um projeto desenvolvido como TCC para o curso técnico em Desenvolvimento de Sistemas da instituição Liceu Santista entre março de 2024 e junho de 2025. O projeto consiste em um sistema de gerenciamento de escolas de música. 
