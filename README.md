@@ -4,7 +4,7 @@
   <img src="./Imagens/CCB.png" alt="logo_ccb" width="200px">
 </p
 
-SGEM-CCB (Sistema para Grupos de Estudos Musicais da Congregação Cristã no Brasil) é um projeto desenvolvido como TCC para o curso técnico em Desenvolvimento de Sistemas da instituição Liceu Santista entre março de 2024 e junho de 2025. O projeto consiste em um sistema de gerenciamento de escolas de música. 
+SGEM-CCB (Sistema para Grupos de Estudos Musicais da Congregação Cristã no Brasil) é um projeto desenvolvido como TCC para o curso técnico em Desenvolvimento de Sistemas da instituição Liceu Santista entre março de 2024 e junho de 2025. 
 
 
 
