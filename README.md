@@ -31,11 +31,9 @@ As tecnologias utilizadas foram:
 - Extração de relatórios diretamente para o Excel
 
 ## Screenshots
-![screenshot_doador](https://github.com/liammaricato/Hemolab/blob/master/readme_images/screenshot_doador.png)
-![screenshot_funcionarios](https://github.com/liammaricato/Hemolab/blob/master/readme_images/screenshot_funcionarios.png)
-![screenshot_sorologia](https://github.com/liammaricato/Hemolab/blob/master/readme_images/screenshot_sorologia.png)
-![screenshot_estoque](https://github.com/liammaricato/Hemolab/blob/master/readme_images/screenshot_estoque.png)
-![screenshot_historico1](https://github.com/liammaricato/Hemolab/blob/master/readme_images/screenshot_historico1.png)
-![screenshot_historico2](https://github.com/liammaricato/Hemolab/blob/master/readme_images/screenshot_historico2.png)
-![screenshot_enviaremail](https://github.com/liammaricato/Hemolab/blob/master/readme_images/screenshot_enviaremail.png)
-![screenshot_email](https://github.com/liammaricato/Hemolab/blob/master/readme_images/screenshot_email.png)
+![screenshot_login](./Imagens/login.png)
+![screenshot_dashboard](./Imagens/dashboard.png)
+![screenshot_consultaAlunos](./Imagens/consultaAlunos.png)
+![screenshot_cadALuno](./Imagens/cadALuno.png)
+![screenshot_cadInstrumentos](./Imagens/cadInstrumentos.png)
+![screenshot_docentes](./Imagens/docentes.png)
