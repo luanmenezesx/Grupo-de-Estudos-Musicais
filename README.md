@@ -35,3 +35,7 @@ As tecnologias utilizadas foram:
 ![screenshot_cadALuno](./Imagens/cadALuno.png)
 ![screenshot_cadInstrumentos](./Imagens/cadInstrumentos.png)
 ![screenshot_docentes](./Imagens/docentes.png)
+
+## Licença
+Este projeto está licenciado sob a Licença MIT.  
+Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
